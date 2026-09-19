@@ -1,0 +1,49 @@
+# Build outputs
+build/
+build-cmake/
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.exe
+ChickenInvaders
+chickeninvaders
+ChickenInvaders2.exe
+
+# Data files (large)
+*.dat
+
+# Backups
+*.bak
+*.old
+*.tmp
+*~
+
+# IDA files
+*.i64
+*.idb
+*.til
+*.nam
+*.id0
+*.id1
+*.id2
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
